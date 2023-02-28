@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Jay Gajera  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"</h1>
+<h1 align="center">Hi , I'm Aditya Kaneriya  <img width="40" height="40" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"</h1>
 <h3 align="center">A student of Ddit college Nadiad , India</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aditya1711-tech&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Aditya1711-tech" /> </p>
 <img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
