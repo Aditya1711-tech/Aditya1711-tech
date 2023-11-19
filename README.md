@@ -5,7 +5,7 @@
 <br>
 
 - 👯 I’m looking to collaborate on **Any Project**
-- 🏫 currenttly learning  **Machine Learning and MERN**
+- 🏫 currenttly learning  **MERN**
 - 📫 How to reach me **adityakaneriya1711@gmail.com**
 - 📄 more about me [https://github.com/Aditya1711-tech/Aditya1711-tech](https://github.com/Aditya1711-tech/Aditya1711-tech)
 
